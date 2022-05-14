@@ -20,7 +20,7 @@ Members:
 
 # 0. Configuration
 
-# 1. Data collection
+# 1. Crawler
 
 # 2. Data processing
 
